@@ -1,6 +1,6 @@
 # EinfachBildverarbeitungJava
 
-Diese Programm ist im Spezialisierungsmodul Bidverarbeitung entstanden. Es berechnet folgende Werte basierend auf das Eingabebild:
+Dieses kleine Programm wurde im Modul Bidverarbeitung entwickelt. Es berechnet folgende Werte basierend auf das Eingabebild:
 
 <ul>
   <li>Maximalen Grauwert</li>
