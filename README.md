@@ -13,10 +13,9 @@ Dieses kleine Programm wurde im Modul Bidverarbeitung entwickelt. Es berechnet f
   <li>Histogrammwerte in Form einer csv Liste</li>
 </ul>
 
-Diese Applikation wurde nicht mit einer GUI ausgestattet, dass sollte Teil des aktuellen Folgeprojekts werden. Das bedeutet man kann das Programm nur 
-über das Terminal bedienen. 
+Diese Applikation wurde nicht mit einer GUI ausgestattet, dass sollte Teil des aktuellen Folgeprojekts werden. 
 
-Die Beispieldateien können hier gefunden werden: [Beispiel](https://github.com/RobinTest97/EinfachBildverarbeitungJava/tree/master/Beispiel)
+Die Beispieldateien sind hier zu finden: [Beispiel](https://github.com/RobinTest97/EinfachBildverarbeitungJava/tree/master/Beispiel)
 
 Im nachfolgenden ein Beispielbild:
 
